@@ -1,0 +1,6 @@
+framework module SirioLibanesApp {
+  umbrella header "SirioLibanesApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SirioLibanesApp",
+  "version": "0.1.0",
+  "summary": "A short description of SirioLibanesApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/federico0812/SirioLibanesApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "federico0812": "federico0812@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/federico0812/SirioLibanesApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SirioLibanesApp/Classes/**/*"
+}
